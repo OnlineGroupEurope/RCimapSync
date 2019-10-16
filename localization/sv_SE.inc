@@ -1,21 +1,21 @@
 <?php
 
 $labels = array();
-$labels['imapsync'] = 'Imapsync';
+$labels['imapsync'] = 'Imapsynk';
 $labels['imapsyncdelete'] = 'Delete emails after receiving';
-$labels['imapsyncenabled'] = 'Enable';
+$labels['imapsyncenabled'] = 'Aktivera';
 $labels['imapsyncfetchall'] = 'Fetch all e-mails from server';
-$labels['imapsyncfolder'] = 'Remote server folder';
+$labels['imapsyncfolder'] = 'Fjärrmapp';
 $labels['imapsynckeep'] = 'Do not remove messages from the server';
 $labels['imapsyncpollinterval'] = 'Poll interval for the mailbox';
-$labels['imapsyncprotocol'] = 'Protocol';
-$labels['imapsyncserver'] = 'Server hostname';
-$labels['imapsyncusessl'] = 'Use SSL';
+$labels['imapsyncprotocol'] = 'Protokoll';
+$labels['imapsyncserver'] = 'Värdnamn';
+$labels['imapsyncusessl'] = 'Använd SSL';
 $labels['imapsync_entries'] = 'Accounts to collect for';
-$labels['imapsync_to'] = 'Collect mail to';
+$labels['imapsync_to'] = 'Hämta mail till';
 $labels['nofetch'] = 'No entries available';
-$labels['dest_password'] = 'local Password';
-$labels['imapsyncskipemptyfolders'] = 'skip empty Folders';
+$labels['dest_password'] = 'Lokalt lösenord';
+$labels['imapsyncskipemptyfolders'] = 'Hoppa över tomma mappar';
 $labels['imapsyncsubscribeall'] = 'subscribe all Folders';
 $labels['imapsyncmaxage'] = 'max. sync Age (Days)';
 
