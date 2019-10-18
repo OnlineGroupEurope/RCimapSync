@@ -44,7 +44,7 @@ sub main {
 		push(@params, '--password1');
 		push(@params, decode_base64($ref->{'src_password'}));
 		push(@params, '--host2');
-		push(@params, 'localhost');
+		push(@params, 'imap01.binero.se');
                 push(@params, '--user2');
 		push(@params, $ref->{'mailbox'});
                 push(@params, '--password2');
